@@ -1,0 +1,7 @@
+FileVersion = 1
+
+[Project]
+Name = "TheBeefMachinery"
+
+[Configs.Debug.Win64]
+BeefLibType = "Static"
